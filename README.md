@@ -1,6 +1,6 @@
 ## Temperature Converter
 Website that functions to convert temperatures.<br />
-Build With Python (Streamlit)
+Build With Python (Streamlit).
 
 ## Installation
 ```
