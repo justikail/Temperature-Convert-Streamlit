@@ -2,7 +2,7 @@ import streamlit as st
 import os
 
 # header
-st.header("Calculator Suhu - Streamlit", divider='rainbow')
+st.header("Temperature Convert - Streamlit", divider='rainbow')
 
 # variable input 
 suhu = st.number_input(label="Masukan Suhu : ".upper())
