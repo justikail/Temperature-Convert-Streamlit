@@ -4,12 +4,6 @@ Build With Python (Streamlit)
 
 <br/>
 
-## DEMO : 
-
-<br />
-
-![DEMO](https://raw.githubusercontent.com/justikail/Temperature-Convert-Streamlit/main/img/demo.png)
-
 ## Installation
 ```
 python -m pip install streamlit
@@ -17,3 +11,9 @@ git clone https://github.com/justikail/Temperature-Convert-Streamlit.git
 cd 'Temperature-Convert-Streamlit'
 streamlit run Calculator.py
 ```
+
+## DEMO : 
+
+<br />
+
+![DEMO](https://raw.githubusercontent.com/justikail/Temperature-Convert-Streamlit/main/img/demo.png)
